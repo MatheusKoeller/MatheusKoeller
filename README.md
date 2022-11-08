@@ -4,7 +4,7 @@
 
 - 👨‍💻  Busco meu Primeiro emprego  voltado para área de programação! Espero conseguir uma oportunidade para aprender e adquirir conhecimento nessa área que é tão grande e incrível. Estou sempre disposto em melhorar e aprender o máximo possível. 
 
-- 🌱 Eu estou estudando no momento HTML5|CSS3|JavaScript|Linguagem C|
+- 🌱 Eu estou estudando no momento HTML5| CSS3| JavaScript| Linguagem C.
 
 <!---
 MatheusKoeller/MatheusKoeller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
