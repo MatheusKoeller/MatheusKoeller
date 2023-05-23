@@ -23,7 +23,8 @@
 </div>
 
 <div align="center">
- ## 🐍 SNAKE GAME 🐍
+ ## 
+  🐍 SNAKE GAME 🐍
 
 
 ![Snake animation](https://github.com/matheuskoeller/matheuskoeller/blob/output/github-contribution-grid-snake.svg)
