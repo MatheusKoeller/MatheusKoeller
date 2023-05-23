@@ -1,8 +1,6 @@
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/MatheusKoeller/MatheusKoeller/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
+ ### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![Snake animation](https://github.com/Matheuskoller/Matheuskoller/blob/output/github-contribution-grid-snake.svg)
 </div>
