@@ -26,5 +26,5 @@
   🐍 SNAKE GAME 🐍
 
 
-![Snake animation](https://github.com/matheuskoeller/matheuskoeller/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusKoeller/MatheusKoeller/blob/output/github-contribution-grid-snake.svg)
 </div>
