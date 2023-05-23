@@ -23,7 +23,6 @@
 </div>
 
 <div align="center">
- ## <br>
   🐍 SNAKE GAME 🐍
 
 
